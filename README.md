@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/preview.mp4"/>
+  <video loop="true">
+    <source src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/preview.mp4" type="video/mp4"/>
+  </video>
 </p>
 
 ## Usage
