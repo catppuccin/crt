@@ -19,7 +19,7 @@
 
 1. Clone this repository locally or copy catppuccin.profile.json
 2. Open the app's settings
-3. Select `import` and browse to where you cloned Catppuccin
+3. Select `import` and browse to where you cloned catppuccin-crt
 4. Load profile:
   - GUI (right click on the terminal -> edit -> settings -> pick catppuccin -> Load)
   - cool-retro-term --profile "catppuccin-[flavour]"
