@@ -15,6 +15,25 @@
 	<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/preview.png"/>
 </p>
 
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/crt-latte.png"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/crt-frappe.png"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/crt-macchiato.png"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="https://raw.githubusercontent.com/iruzo/catppuccin-crt/main/assets/crt-mocha.png"/>
+</details>
+
 ## Usage
 
 1. Clone this repository locally or copy catppuccin.profile.json
