@@ -45,7 +45,7 @@
 
 ## 💝 Thanks to
 
-- [Iván Ruzo](https://gitlab.com/iruzo)
+- [Iván Ruzo](https://github.com/iruzo)
 
 &nbsp;
 
