@@ -30,7 +30,7 @@ whiskers:
   "margin": 0.1,
   "blinkingCursor": true,
   "frameMargin": 0,
-  "name": "catppuccin-mocha",
+  "name": "catppuccin-{{ flavor.identifier }}",
   "version": 2
 }
 
