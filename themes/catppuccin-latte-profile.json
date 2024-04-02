@@ -1,6 +1,6 @@
 {
-  "backgroundColor": "#232634",
-  "fontColor": "#f2d5cf",
+  "backgroundColor": "#dce0e8",
+  "fontColor": "#e64553",
   "flickering": 0,
   "horizontalSync": 0,
   "staticNoise": 0.0186,
@@ -22,6 +22,6 @@
   "margin": 0.1,
   "blinkingCursor": true,
   "frameMargin": 0,
-  "name": "catppuccin-frappe",
+  "name": "catppuccin-latte",
   "version": 2
 }

@@ -1,12 +1,22 @@
+---
+whiskers:
+  version: 2.0.0
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}-profile.json"
+---
+{%-set palette = flavor.colors -%}
 {
-  "backgroundColor": "#dce0e8",
-  "fontColor": "#e64553",
+  "backgroundColor": "#{{ palette.crust.hex }}",
+  "fontColor": "#{{ if(cond=flavor.light, t=palette.maroon.hex, f=palette.rosewater.hex) }}",
   "flickering": 0,
   "horizontalSync": 0,
   "staticNoise": 0.0186,
   "chromaColor": 1,
   "saturationColor": 0.4967,
   "screenCurvature": 0,
+  "glowingLine": 0.154,
+  "burnIn": 0.0985,
   "bloom": 0.2996,
   "rasterization": 0,
   "jitter": 0.131,
@@ -20,6 +30,7 @@
   "margin": 0.1,
   "blinkingCursor": true,
   "frameMargin": 0,
-  "name": "catppuccin-latte",
+  "name": "catppuccin-{{ flavor.identifier }}",
   "version": 2
 }
+
